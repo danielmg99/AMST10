@@ -1,0 +1,2 @@
+# AMST10
+Lab1 de AMST
